@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# IDEA
+.idea/**
+
+# scrapy
+quotes.json
+tutorial/**.html
+tutorial/output/**
